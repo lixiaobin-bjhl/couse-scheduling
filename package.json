@@ -1,0 +1,18 @@
+{
+  "name": "course-scheduling",
+  "version": "1.0.0",
+  "description": "排课",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://git.baijiahulian.com/lixiaobin/course-scheduling.git"
+  },
+  "author": "lixiaobin@baijiahulian.com",
+  "license": "MIT",
+  "dependencies": {
+    "gulp-sass": "^2.0.4"
+  }
+}
